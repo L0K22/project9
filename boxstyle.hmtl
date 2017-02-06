@@ -1,0 +1,29 @@
+.boxyellow 
+{ 
+  width: 400px ;
+  height: 80px;
+	background-color: yellow
+  margin: auto;
+     }
+     
+     
+     
+     .boxgreen 
+{ 
+  width: 400px ;
+  height: 80px;
+	background-color: green
+  margin: auto;
+     }
+     
+     
+     
+     .boxred
+{ 
+  width: 400px ;
+  height: 80px;
+	background-color: red
+  margin: auto;
+     }
+
+
