@@ -1,28 +1,28 @@
-.boxyellow 
+header 
 { 
   width: 400px ;
   height: 80px;
-	background-color: yellow
+  background-color: yellow
   margin: auto;
      }
      
      
      
-     .boxgreen 
+nav
 { 
   width: 400px ;
   height: 80px;
-	background-color: green
+  background-color: green
   margin: auto;
      }
      
      
      
-     .boxred
+main
 { 
   width: 400px ;
   height: 80px;
-	background-color: red
+  background-color: red
   margin: auto;
      }
 
