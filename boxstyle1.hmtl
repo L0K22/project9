@@ -2,7 +2,7 @@ header
 { 
   width: 400px ;
   height: 80px;
-  background-color: yellow
+  background-color: yellow;
   margin: auto;
      }
      
@@ -12,7 +12,7 @@ nav
 { 
   width: 400px ;
   height: 80px;
-  background-color: green
+  background-color: green;
   margin: auto;
      }
      
@@ -22,7 +22,7 @@ main
 { 
   width: 400px ;
   height: 80px;
-  background-color: red
+  background-color: red;
   margin: auto;
      }
 
